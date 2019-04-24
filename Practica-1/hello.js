@@ -1,5 +1,5 @@
-//-- Mi primer programa en node
+//-- Programa hola mundo en node.js
+console.log("¡Hola mundo!");
 
-console.log("Hola como estás");
-
-process.stdout.write("Otra forma de imprimir\n\n")
+//-- Otra forma de imprimir
+process.stdout.write(".......")
